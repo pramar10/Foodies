@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "529791717331",
+    "project_id": "ubereatesclone",
+    "storage_bucket": "ubereatesclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529791717331:android:36a5cf7b25a743320fa926",
+        "android_client_info": {
+          "package_name": "com.travelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529791717331-hc2asjttu5ee0pqpf077mr6f7uqjkj3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.travelapp",
+            "certificate_hash": "c182c6c39e35d337a696f13fd227eb782de10216"
+          }
+        },
+        {
+          "client_id": "529791717331-5v52gfr7914ssqg4jvl28prs9ebgsagk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABGpVUgUSA9rjuv0gP9nmcMQ9PpgjBqtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529791717331-5v52gfr7914ssqg4jvl28prs9ebgsagk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
